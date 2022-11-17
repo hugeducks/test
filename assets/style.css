@@ -1,0 +1,29 @@
+header {
+    margin: 10% 10%;
+    background-color: red;
+    border-bottom: 27px dotted greenyellow;
+}
+
+img {
+    height: 250px;
+    width: 4000px; 
+}
+
+.content {
+    background-color: seagreen;
+    color: blanchedalmond;
+    width: 2000px;
+    height: 2000px;
+    font-family: fantasy, 'Times New Roman', Times, serif
+
+
+}
+#important {
+    color: rebeccapurple;
+}
+
+#nothing {
+    text-decoration: none;
+    color: blanchedalmond;
+}
+;
